@@ -17,7 +17,14 @@ class sum
     c=a+b;
     System.out.println("sum="+c);
   }
+  
+  void show()
+  {
+    System.out.println("program to add two number completed");
+  }
+  
 }
+
 
 class one
 {
